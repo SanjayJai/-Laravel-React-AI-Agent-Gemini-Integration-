@@ -6,6 +6,8 @@ A modern full-stack application built with **Laravel (Backend)** and **React (Fr
 
 ## 📸 Demo Preview
 
+![Demo Preview](demo.png)
+
 > Place your screenshot image in the root folder and rename it as `demo.png`
 
 ---
